@@ -1,7 +1,10 @@
-compile ur - https://tinyurl.com/devops-rk-1
-compile ur - https://tinyurl.com/devops-rk-2
-compile ur - https://tinyurl.com/devops-rk-3
-compile ur - https://tinyurl.com/devops-rk-4
-compile ur - https://tinyurl.com/devops-rk-5
-compile ur - https://tinyurl.com/devops-rk-6
-compile ur - https://tinyurl.com/devops-rk-7
+Download DPC.txt - https://tinyurl.com/devops-rk-1
+Build.txt - https://tinyurl.com/devops-rk-2
+CUR.txt - https://tinyurl.com/devops-rk-3
+Test_adapter_specific.txt - https://tinyurl.com/devops-rk-4
+check_sycl-ls.txt - https://tinyurl.com/devops-rk-5
+install.txt - https://tinyurl.com/devops-rk-6
+test_adapters.txt - https://tinyurl.com/devops-rk-7
+alldeps.txt https://tinyurl.com/devops-rk-8
+opencl.txt https://tinyurl.com/devops-rk-9
+single_test.sh https://tinyurl.com/devops-rk-10
