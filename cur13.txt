@@ -1,0 +1,1 @@
+-DUR_SYCL_LIBRARY_DIR=./dpcpp_compiler/lib

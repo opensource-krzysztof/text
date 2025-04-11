@@ -1,0 +1,1 @@
+ctest -C Release --test-dir build --output-on-failure -L "adapter-specific" -E "memcheck" --timeout 600
