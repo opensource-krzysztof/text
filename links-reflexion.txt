@@ -9,3 +9,4 @@ alldeps.txt https://tinyurl.com/devops-rk-8
 opencl.txt https://tinyurl.com/devops-rk-9
 single_test.sh https://tinyurl.com/devops-rk-10
 python.txt https://tinyurl.com/devops-rk-11
+managed.txt https://tinyurl.com/devops-rk-12
