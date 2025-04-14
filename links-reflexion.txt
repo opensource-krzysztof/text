@@ -8,4 +8,4 @@ test_adapters.txt - https://tinyurl.com/devops-rk-7
 alldeps.txt https://tinyurl.com/devops-rk-8
 opencl.txt https://tinyurl.com/devops-rk-9
 single_test.sh https://tinyurl.com/devops-rk-10
-python3 https://tinyurl.com/devops-13 
+python3 https://tinyurl.com/devops-rk-11
