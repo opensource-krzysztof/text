@@ -1,12 +1,24 @@
+<<<<<<< HEAD:devops_utils_ur/links-reflexion.sh
 download-dpc.txt - https://tinyurl.com/devops-rk-1
 build.txt - https://tinyurl.com/devops-rk-2
 configure-ur.txt - https://tinyurl.com/devops-rk-3
 test_adapter_specific.txt - https://tinyurl.com/devops-rk-4
+=======
+Download DPC.txt - https://tinyurl.com/devops-rk-1
+Build.txt - https://tinyurl.com/devops-rk-2
+cmake_ur.txt - https://tinyurl.com/devops-rk-3
+Test_adapter_specific.txt - https://tinyurl.com/devops-rk-4
+>>>>>>> bbd5d5157f049aae7b8f51ca29d1ce927e412fdd:links-reflexion.txt
 check_sycl-ls.txt - https://tinyurl.com/devops-rk-5
 install.txt - https://tinyurl.com/devops-rk-6
 test_adapters.txt - https://tinyurl.com/devops-rk-7
 alldeps.txt https://tinyurl.com/devops-rk-8
 opencl.txt https://tinyurl.com/devops-rk-9
 single_test.sh https://tinyurl.com/devops-rk-10
+<<<<<<< HEAD:devops_utils_ur/links-reflexion.sh
 pythonConfig.txt https://tinyurl.com/devops-rk-11
 managed.txt https://tinyurl.com/devops-rk-12
+=======
+python.txt https://tinyurl.com/devops-rk-11
+managed.txt https://tinyurl.com/devops-rk-12
+>>>>>>> bbd5d5157f049aae7b8f51ca29d1ce927e412fdd:links-reflexion.txt
