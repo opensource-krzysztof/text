@@ -1,6 +1,6 @@
 Download DPC.txt - https://tinyurl.com/devops-rk-1
 Build.txt - https://tinyurl.com/devops-rk-2
-CUR.txt - https://tinyurl.com/devops-rk-3
+cmake_ur.txt - https://tinyurl.com/devops-rk-3
 Test_adapter_specific.txt - https://tinyurl.com/devops-rk-4
 check_sycl-ls.txt - https://tinyurl.com/devops-rk-5
 install.txt - https://tinyurl.com/devops-rk-6
